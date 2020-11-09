@@ -13,7 +13,7 @@
 ***Описание процесса тестирования***
 
 В процессе тестирования использовались следующие артефакты:
-* [ХТест-кейс для тестирования Credit Card Number Validator](https://docs.google.com/spreadsheets/d/1is_7kdrprQ1OQQbQLforQ5OgrDdmxMyMkduQvp5hn_I/edit#gid=0)
+* [Тест-кейс для тестирования Credit Card Number Validator](https://docs.google.com/spreadsheets/d/1is_7kdrprQ1OQQbQLforQ5OgrDdmxMyMkduQvp5hn_I/edit#gid=0)
 
 В качестве тестовых данных использовались данные валидных и невалидных карт с сайта freeformatter.com:
 
